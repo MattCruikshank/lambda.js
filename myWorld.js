@@ -10,7 +10,7 @@ class Lobby {
   }
 
   look(term) {
-    term.print("You are in the Lobby of Google.");
+    term.print("You are in the Lobby of a building.");
   }
 }
 
